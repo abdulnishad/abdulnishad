@@ -117,15 +117,12 @@
 
 
 
-<h2>👀 My github Stats</h2>
-<div>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulnishad" alt="GitHub Stats" /> <br/><br/>
+
+
+
+
   
-</div>
 
-
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
 
   
@@ -153,6 +150,6 @@
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8o4ewy5ihcvl2kdxmozmuw" height="30" width="40" /></a>
 </p>
 
-  <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
-![image](https://github.com/abdulnishad/abdulnishad/assets/140004581/89ef8d2c-fe46-4a6d-a35e-576129ded784)
+  
+
